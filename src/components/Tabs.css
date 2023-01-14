@@ -1,0 +1,22 @@
+*{
+   margin:0;
+   padding:0;
+}
+.header-1{
+   display: flex;
+   padding:12px 0px 0px 30px;
+   background: #fff;
+}
+ul {
+  list-style-type: none;
+  margin-left: 45px;
+  margin-top: 5px;
+  
+}
+
+li {
+  display: inline;
+  margin: 34px;
+  font-size: 17px;
+  font-weight: bold;
+}
